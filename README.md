@@ -23,7 +23,7 @@ Si bien el producto principal, una guía provisionalmente titulada “Buenas pr�
 - VertNet 
 
 
-# Bibliografía
+## Bibliografía
 
 La bibligrafía base para la construcción del documento de "Buenas Prácticas de Calidad de Datos en procesos de Digitalización, Publicación y Repatriación de Datos de Biodiversidad" se puede consultar en la [biblioteca de Zootero del proyecto.](https://www.zotero.org/groups/2764305/cesp_2020-018/library)
 
